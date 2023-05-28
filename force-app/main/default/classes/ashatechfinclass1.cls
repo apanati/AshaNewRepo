@@ -1,7 +1,7 @@
-public class ashatechfinclass1 {
-    public ashatechfinclass1 () {
+public class Ashatechfinclass1 {
+    public Ashatechfinclass1 () {
         boolean vj = true;
-        System.debug ('test123');
+        System.debug ('test123-change1');
 
     }
 }
